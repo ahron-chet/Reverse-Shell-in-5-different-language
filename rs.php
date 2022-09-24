@@ -76,5 +76,9 @@ function start($token,$chat_id)
         }
 		
 }
-start('5424626039:AAHFuTTwIoIQI8I-3hgPvg8vE5_gFTtLmRI','-1001550861772');
+
+$token = 'Your Telegram bot Token'
+$chat_id = 'your group chat id'
+start($token,$chat_id);
+	
 ?>
